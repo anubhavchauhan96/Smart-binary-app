@@ -63,21 +63,6 @@
             android:orientation="horizontal"
             android:layout_marginTop="3dp">
 
-            <TextView
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:text="Designation: "
-                android:textColor="#000"/>
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:text="CFO OF SMART BINARY TRADERS"
-                android:textSize="12dp"
-                android:textColor="#000"/>
-
         </LinearLayout>
 
         <LinearLayout
@@ -183,7 +168,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:lines="8"
-                android:text="Learn Forex Trading with Smart Binary Traders. Articles on Business,Finance and Stocks.If you are intrested in becoming a trader then Follow successful Smart BinaryTraders "
+                android:text="Learn Forex Trading with Smart Binary Traders. Articles on Business,Finance and Stocks.Follow Smart Binary Traders "
                 android:textColor="#000"/>
 
         </LinearLayout>
