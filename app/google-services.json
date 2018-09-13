@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "866429184471",
+    "firebase_url": "https://smartbinary-8250b.firebaseio.com",
+    "project_id": "smartbinary-8250b",
+    "storage_bucket": "smartbinary-8250b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866429184471:android:278d42d8660e882c",
+        "android_client_info": {
+          "package_name": "com.example.anubhavchauhan.smartbinarytraders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866429184471-s2rej4bkhvhdh3osu7sh9evb0kkejp9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtgBJGWWCwif3YeYU7xIEdXbqoE0o6QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

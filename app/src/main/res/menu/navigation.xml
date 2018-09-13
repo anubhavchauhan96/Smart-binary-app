@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="@layout/activity_main">
+<group android:checkableBehavior="single">
+
+       <item android:id="@+id/Welcome"
+           android:title="Welcome To " />
+
+    <item android:id="@+id/smartBinary"
+        android:title="Smart Binary Traders"/>
+
+   </group>
+    <item android:title="Information">
+        <menu>
+            <item
+
+                android:id="@+id/aboutMe"
+                android:icon="@drawable/ic_face_black_24dp"
+                android:title="About Us"
+                android:visible="true"
+                app:showAsAction="always"/>
+
+            <item
+                android:id="@+id/instagram"
+                android:title="Instagram"
+                android:visible="true"
+                app:showAsAction="always"/>
+
+            <item
+
+                android:id="@+id/twitter"
+                android:title="Twitter"
+                android:visible="true"
+                app:showAsAction="always"/>
+
+            <item
+
+                android:id="@+id/facebook"
+                android:title="Facebook"
+                android:visible="true"
+                app:showAsAction="always"/>
+        </menu>
+    </item>
+
+
+
+</menu>

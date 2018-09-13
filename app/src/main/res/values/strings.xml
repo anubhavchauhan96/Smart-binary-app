@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Binary Traders</string>
+    <string name="open"></string>
+    <string name="close"></string>
+    <string name="nav_header_desc">nav header</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
